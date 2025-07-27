@@ -1,7 +1,7 @@
 # Python-Bootcamp
 # Python Bootcamp Projects
 
-This repository contains my code, notes, and projects from [Dr. Angela Yu's 100 Days of Code - The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/).
+This repository contains my code, notes, and projects from [Dr. Angela Yu's 100 Days of Code - The Complete Python Pro Bootcamp for 2025](https://www.udemy.com/course/100-days-of-code/).
 
 ## 💡 Topics Covered
 - Python basics (variables, functions, loops)
